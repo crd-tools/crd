@@ -2,6 +2,8 @@ module crd.tools/crd
 
 go 1.26.0
 
+retract v0.0.1
+
 require (
 	github.com/mantyr/codes v1.0.0
 	github.com/smartystreets/goconvey v1.8.1
